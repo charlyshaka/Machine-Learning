@@ -32,6 +32,7 @@
 
  
  5. Which of these is a reasonable definition of machine learning?
+ 
  R: Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed.
 
 
