@@ -1,2 +1,3 @@
-##Linear Regression with One Variable
+# Linear Regression with One Variable
 ***
+$x=y$
